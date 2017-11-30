@@ -1,0 +1,107 @@
+/*
+		_media.scss	
+*/
+
+
+
+@media only screen and (max-width: 1199px){
+	html body{
+		font-size: 15px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 991px){
+	html body{
+		font-size: 15px;
+	}
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+
+	html body{
+		font-size: 14px;
+	}
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+	html body{
+		font-size: 12px;
+	}
+
+}
+
+
+@media (max-width: 280px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// MIN-WIDTH
+
+
+@media only screen and (min-width: 1440px){
+
+
+}
+
+@media (min-width: 768px) {
+
+} 
+@media (min-width: 992px) {
+
+	.header-logo-left-menu-right 
+	.nav-container, 
+	.header-logo-right-menu-left 
+	.navbar-header {
+		float: none;
+		position: relative;
+		margin: auto;
+		display: inline-block;
+	}
+
+
+} 
